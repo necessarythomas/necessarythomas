@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necessarythomas
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web and mobile application development.
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on building a mobile app with react native
 - 📫 How to reach me necessarythomas@gmail.com
